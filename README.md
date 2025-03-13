@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ineehaQA
+- 🌱 I’m currently working on improving my Automation Testing skills
+- 🤝 I’m looking to collaborate with other Automation Testers/ QA Engineers
+- 🐱‍🏍 I'm  looking for help on real time projects including Automation and API Testing skills
+- 📫 How to reach me : neeharikap10@gmail.com
