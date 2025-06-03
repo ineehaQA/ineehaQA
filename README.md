@@ -6,6 +6,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=ineehaQA&color=yellow)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark)
+
  🛠️ Tech Stack 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
