@@ -4,6 +4,8 @@
 - 🐱‍🏍 I'm  looking for help on real time projects including Automation and API Testing skills
 - 📫 How to reach me : neeharikap10@gmail.com
 
+![Profile views](https://komarev.com/ghpvc/?username=ineehaQA&color=purple)
+
  🛠️ Tech Stack 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
